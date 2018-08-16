@@ -1,0 +1,1 @@
+Vanilla JS, ES6 fundamentals, Async, DOM Manipulation, no libraries.
